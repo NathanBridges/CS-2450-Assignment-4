@@ -18,8 +18,6 @@ static class Program
     {
         Console.WriteLine("Hello World!");
 
-        Console.WriteLine("Making a change!");
-
         Console.ReadLine();
     }//End Main()
 }//End class Program
